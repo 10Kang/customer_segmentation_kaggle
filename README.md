@@ -7,7 +7,7 @@ This repository is dedicated to perform customer segmentation using K-Mean Clust
 You may find the data in this website:
 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
-## What the K-Mean Clustering?
+## What the K-Mean Clustering tell us?
 
 * The results from K-Mean Clustering might be extremely useful for marketing team to target the right customer group while doing a promotion. Below are the customer segmentation which result in three major cluster 
 
