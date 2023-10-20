@@ -22,3 +22,14 @@ https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 * From the prespective of income level, the cluster 2 is with highest mean income level, followed by cluster 0, and cluster 1. In relation to that, cluster 1 has the lowest spending on these products for the past two years. In comparison between cluster 0 and 2, a clear distinct purchasing pattern can be observed, in which the customer in cluster 2 have consumed more fish and meat products as their source of protein. Hence, promotion on these categories of product can primarily target the customer in cluster 2 as they have more purchasing power in these products.	&#128722;
 
 * Aside from that, it might make sense as well to not include other features such as number of teens, kids, acceptance of promotion and places of purchase as all these factor will be eventually factorized in the amount of spending in those products. Based on these products, we then can roll out promotion to the targeted customers based on categories of product. &#128187; 
+
+## Dash App
+
+To access the dash app for interactive purpose, you may either directly access it through the Dash_app.ipynb notebook or through terminal with proper configured python environment using command below.
+
+```
+python dash-app.py
+```
+You may interat with the dash app by selecting features such as variance trimming as well as the number of clusters as shown in figure below:
+
+![](./images/demo.gif)

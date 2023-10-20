@@ -1,2 +1,4 @@
 .DS_store
-.ipynb_checkpoints/   
+.ipynb_checkpoints/
+mp4_to_gif.py
+images/demo.mov   
